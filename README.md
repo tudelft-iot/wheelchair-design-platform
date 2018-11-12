@@ -22,4 +22,8 @@ The Raspberry Pi is a small computer. Also fixed on the main frame of the wheelc
 
 More on the Raspberry Pi [here](https://github.com/tudelft-iot/wheelchair-design-platform/blob/master/doc/devices/RaspberryPi.md "Raspberry Pi resources").
 
+An overview of how these components fit together
+
+![Wheelchair main components](https://raw.githubusercontent.com/tudelft-iot/wheelchair-design-platform/master/doc/wheechair-components.svg)
+
 ## 
