@@ -24,6 +24,6 @@ More on the Raspberry Pi [here](https://github.com/tudelft-iot/wheelchair-design
 
 An overview of how these components fit together
 
-![Wheelchair main components](./wheelchair-design-platform/master/doc/wheechair-components.svg)
+![Wheelchair main components](./doc/wheechair-components.svg)
 
 ## 
