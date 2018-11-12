@@ -2,7 +2,7 @@
 
 The Wheelchair Design Platform is a set of hardware and software component which facilitate the deployment of  sensing and actuating capability on a Wheelchair. It aims at supporting designer through the exploration of relevant and novel products and services around wheelchairs.
 
-This platform uses two programming languages, Python on computers and C on micro-controllers. While descriptions and examples of code should help you get started, you can find some additional resources [here](wheelchair-design-platform/doc/software-resources.md "Python and C resources") .
+This platform uses two programming languages, Python on computers and C on micro-controllers. While descriptions and examples of code should help you get started, you can find some additional resources [here](https://github.com/tudelft-iot/wheelchair-design-platform/blob/master/doc/software-resources.md "Python and C resources") .
 
 Note: the design of this platform focus on flexibility and technology exploration rather than optimisation.
 
