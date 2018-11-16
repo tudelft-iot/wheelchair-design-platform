@@ -26,6 +26,8 @@ These components fit together as shown on the following diagram. A large powerba
 
 ![Wheelchair main components](./doc/wheechair-components.svg)
 
+
+
 ### List of components
 
 On the frame:
